@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Natnael Badigo</h1>
+<h1 align="center">Hi 👋, I'm Natnael Badigo (BaDi)</h1>
 <h3 align="center">Three.js Developer</h3>
 
 - 🌱 I’m currently learning **Three.js**
