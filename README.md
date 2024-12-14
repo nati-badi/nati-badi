@@ -15,7 +15,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nati-badi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nati-badi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=nati-badi&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nati-badi&theme=light)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nati-badi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
