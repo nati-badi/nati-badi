@@ -14,7 +14,6 @@
 
 # 📊 GitHub Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nati-badi&theme=tokyonight)<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nati-badi" alt="GitHub Streak" /><br/>
 ![](https://github-readme-stats.vercel.app/api?username=nati-badi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nati-badi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
